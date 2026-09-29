@@ -256,7 +256,15 @@ I don't want to only make something work.
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=wafikh-salman&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution statistics" />
+<a href="https://github.com/wafikh-salman">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wafikh-salman&theme=github-compact&hide_border=true&area=true&custom_title=Wafikh%20Salman's%20Contribution%20Graph" width="95%" alt="Wafikh Salman's GitHub contribution graph" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/wafikh-salman">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wafikh-salman&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
