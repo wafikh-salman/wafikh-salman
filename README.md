@@ -1,108 +1,291 @@
-# Hi, I'm Wafikh Salman
+<div align="center">
 
-### Full-Stack Developer • Django • React • REST APIs
+# WAFIKH SALMAN
 
-I build practical web applications with a focus on **clean architecture, useful features, and real-world problem solving**.
+### Full-Stack Developer · Django · React · REST APIs
 
-My current stack is centered around **Python, Django, Django REST Framework, React, JavaScript, and PostgreSQL**. I'm also exploring **AI/LLM engineering and Docker** to strengthen the way I build and deploy modern applications.
+<a href="https://github.com/wafikh-salman">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Django+%2B+React+%2B+PostgreSQL;Exploring+AI%2C+LLMs+%26+Docker;Always+learning.+Always+building." alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://github.com/wafikh-salman?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/wafikh-salman">
+<img src="https://img.shields.io/github/followers/wafikh-salman?style=for-the-badge&label=Followers&color=161B22" />
+</a>
+<a href="https://github.com/wafikh-salman?tab=stars">
+<img src="https://img.shields.io/github/stars/wafikh-salman?style=for-the-badge&label=Stars&color=161B22" />
+</a>
+
+</div>
 
 ---
 
-## What I Do
+## 👨‍💻 About Me
 
-- Build full-stack applications with **Django + React**
-- Design and consume **REST APIs** with Django REST Framework
-- Work with **PostgreSQL, SQL, and Django ORM**
-- Build responsive interfaces with **React and JavaScript**
-- Implement authentication, payments, dashboards, analytics, and CRUD workflows
-- Learn by building projects and solving real engineering problems
+I'm a **Full-Stack Developer** focused on building applications that solve practical problems.
+
+I work mainly with **Python, Django, Django REST Framework, React, JavaScript, and PostgreSQL**, while continuously expanding into **AI/LLM engineering, Docker, and system design**.
+
+I enjoy taking an idea from:
+
+**Concept → Architecture → API → Database → UI → Deployment**
+
+and understanding every layer along the way.
 
 ---
 
-## Tech Stack
+## ⚡ What I'm Working With
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+
+- Python
+- Django
+- Django REST Framework
+- REST API Design
+- Authentication
+- Django ORM
+- PostgreSQL
+- SQL
+
+</td>
+<td valign="top" width="50%">
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Data & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- JavaScript
+- React
+- Redux Toolkit
+- HTML5
+- CSS3
+- Vite
+- Responsive UI
+- API Integration
 
----
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-## Featured Projects
+### Engineering
 
-### 🛍️ CLOUZIE — E-Commerce Platform
-A full-stack e-commerce project focused on building a complete shopping experience with product management, cart and wishlist flows, checkout, offers, coupons, orders, wallet functionality, and administration.
+- Git & GitHub
+- Docker
+- API Architecture
+- Database Design
+- Deployment
+- Debugging
+- DSA
 
-**Stack:** Django • React • REST API • PostgreSQL
+</td>
+<td valign="top">
 
-[View Repository →](https://github.com/wafikh-salman/clouzie_ecommerce)
+### Exploring
 
----
+- AI / LLMs
+- Prompt Engineering
+- Tool Calling
+- Agentic Systems
+- Context & Guardrails
+- System Design
 
-### 🚬 Cigarette Tracker
-A personal usage-tracking application with dashboards, brand management, spending insights, weekly trends, and REST API integration.
-
-**Stack:** Django REST Framework • React • PostgreSQL/SQLite • Vite
-
-[View Repository →](https://github.com/wafikh-salman/cigarette-tracker)
-
----
-
-### 🛒 E-Commerce Application
-A Django-based e-commerce application developed to explore real-world backend workflows including products, categories, cart, checkout, orders, offers, coupons, and user management.
-
-**Stack:** Django • REST APIs • PostgreSQL • React
-
-[View Repository →](https://github.com/wafikh-salman/ecommerce)
-
----
-
-### 🍰 BakeStory
-A web project built around a bakery-style product experience, focusing on frontend presentation and responsive design.
-
-**Stack:** Web Development • JavaScript • CSS
-
-[View Repository →](https://github.com/wafikh-salman/bakestory)
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+# 🚀 Featured Work
 
-- **AI & LLM Engineering** — understanding model workflows, prompting, tool calling, context, guardrails, and agentic systems
-- **Docker** — containerization, images, containers, networking, and deployment workflows
-- **System Design** — learning how to structure scalable applications beyond individual features
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🛍️ CLOUZIE
+
+**Full-stack e-commerce platform**
+
+A complete commerce experience with product management, cart, wishlist, checkout, offers, coupons, orders, wallet functionality and administration.
+
+**Django · React · REST API · PostgreSQL**
+
+<a href="https://github.com/wafikh-salman/clouzie_ecommerce">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 🚬 Cigarette Tracker
+
+**Usage & spending analytics**
+
+A tracking application with dashboards, brand management, weekly trends, spending insights and REST API integration.
+
+**Django REST · React · Vite · PostgreSQL/SQLite**
+
+<a href="https://github.com/wafikh-salman/cigarette-tracker">View Project →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+## 🛒 E-Commerce
+
+**Backend-focused commerce application**
+
+Built to explore real-world workflows including products, categories, cart, checkout, orders, offers, coupons and user management.
+
+**Django · REST APIs · PostgreSQL · React**
+
+<a href="https://github.com/wafikh-salman/ecommerce">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 🍰 BakeStory
+
+**Modern bakery web experience**
+
+A frontend-focused project exploring responsive layouts, product presentation and polished web interactions.
+
+**JavaScript · HTML · CSS**
+
+<a href="https://github.com/wafikh-salman/bakestory">View Project →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Development Focus
+# 📊 GitHub Activity
 
-I care about understanding **how systems work**, not just making them work.
+<div align="center">
 
-That means going beyond tutorials and actively working with:
+<img src="https://github-readme-stats.vercel.app/api?username=wafikh-salman&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="170" />
 
-`APIs → Database Design → Backend Logic → Frontend State → Authentication → Deployment`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wafikh-salman&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=wafikh-salman&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/wafikh-salman">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wafikh-salman&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+</a>
+
+</div>
 
 ---
 
-## GitHub
+# 🧠 Current Focus
 
-I'm continuously improving my projects, documentation, and engineering practices while building a stronger portfolio of real applications.
-
-**Explore my repositories:**  
-[github.com/wafikh-salman](https://github.com/wafikh-salman)
+<table>
+<tr>
+<td>01</td>
+<td><strong>AI & LLM Engineering</strong><br/>Understanding model workflows, prompting, context, tool calling, guardrails and agentic systems.</td>
+</tr>
+<tr>
+<td>02</td>
+<td><strong>Docker</strong><br/>Learning containerization, images, networking and production deployment workflows.</td>
+</tr>
+<tr>
+<td>03</td>
+<td><strong>System Design</strong><br/>Learning how individual features become maintainable and scalable systems.</td>
+</tr>
+</table>
 
 ---
 
-> Build. Break. Understand. Improve.
+# 🧩 How I Build
+
+<div align="center">
+
+```
+┌──────────────┐
+│    IDEA      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  ARCHITECTURE│
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   DATABASE   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│     API      │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   FRONTEND   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   DEPLOYMENT │
+└──────────────┘
+```
+
+</div>
+
+I don't want to only make something work.
+
+**I want to understand why it works.**
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=wafikh-salman&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution statistics" />
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,git,github,docker,vite,redux&perline=6" alt="Technology stack" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/wafikh-salman">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### BUILD · BREAK · UNDERSTAND · IMPROVE
+
+</div>
