@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     WASEEM SALEEM                             -->
+<!--                     WAFIKH SALMAN SALEEM                             -->
 <!--               GitHub Profile README                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00c896&height=230&section=header&text=WASEEM%20SALEEM&fontSize=56&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20Django%20%E2%80%A2%20Python&descAlignY=57&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00c896&height=230&section=header&text=WAFIKH%20SALMAN%20SALEEM&fontSize=56&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Backend%20Developer%20%E2%80%A2%20Django%20%E2%80%A2%20Python&descAlignY=57&descSize=18&descColor=8b949e"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00C896&center=true&vCenter=true&width=760&lines=Backend+Developer+%7C+Django+%7C+Python;Building+REST+APIs+%26+Web+Applications;PostgreSQL+%7C+Docker+%7C+Git;Exploring+AI+%26+LLM+Engineering;Build.+Develop.+Learn.+Repeat." alt="Typing SVG" />
@@ -34,7 +34,7 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  WASEEM@GITHUB ~ $ whoami                                    │
+│  WAFIKH@GITHUB ~ $ whoami                                    │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  > Backend Developer                                         │
@@ -246,24 +246,6 @@ An AI-oriented project reflecting my growing interest in practical AI workflows 
 
 ---
 
-# 🧠 DSA Journey
-
-<div align="center">
-
-```text
-ARRAYS              ████████████████████  ✓
-LINKED LISTS        ████████████████████  ✓
-STACK & QUEUE       ████████████████████  ✓
-TREES               ██████████████████░░  ↗
-GRAPHS              ████████████████░░░░  ↗
-HEAPS               ██████████████████░░  ↗
-TRIE                ███████████████░░░░░  ↗
-```
-
-</div>
-
----
-
 # 🤖 AI / LLM Engineering
 
 <div align="center">
@@ -283,6 +265,65 @@ SYSTEM DESIGN          █████████░░░░░░░░░░
 
 > Exploring how modern AI systems work — from prompts and tokens to tools, agents and production workflows.
 
+# 🤖 AI Engineering Lab
+
+<div align="center">
+
+```text
+                    AI ENGINEERING PIPELINE
+
+        ┌───────────────┐
+        │   USER INPUT  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    PROMPT     │
+        │   + CONTEXT   │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │      LLM      │
+        │  REASONING    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │  TOOLS / API  │
+        │   CALLING     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   VALIDATE    │
+        │  + GUARDRAILS │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    OUTPUT     │
+        └───────────────┘
+```
+
+</div>
+
+### 🔬 What I'm Exploring
+
+<div align="center">
+
+| 🧩 AI Systems | ⚙️ Engineering | 🚀 Building |
+|:---:|:---:|:---:|
+| LLM Fundamentals | Tool Calling | AI APIs |
+| Prompt Engineering | Agentic Workflows | AI Automations |
+| RAG | Guardrails | Intelligent Apps |
+| Context & Memory | Evaluation | Production AI |
+
+</div>
+
+> **Current direction:** understanding AI systems from the inside out — how models receive context, reason over requests, use tools, and produce reliable outputs.
+
+```text
+INPUT → CONTEXT → MODEL → TOOLS → VALIDATION → OUTPUT
+                         ↑
+                    KEEP LEARNING
+```
+
 ---
 
 # 📡 System Status
@@ -298,7 +339,6 @@ SYSTEM DESIGN          █████████░░░░░░░░░░
 │  🐘 PostgreSQL      🟢 CONNECTED           │
 │  🐳 Docker          🟡 LEARNING            │
 │  🤖 AI / LLM        🟡 EXPLORING           │
-│  🧠 DSA             🟢 TRAINING            │
 │  ☕ Coffee          🔴 REQUIRED            │
 │                                            │
 ╰────────────────────────────────────────────╯
