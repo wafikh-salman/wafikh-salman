@@ -151,54 +151,133 @@ Build → Break → Debug → Understand → Improve → Ship 🚀
 
 <div align="center">
 
+### ⚡ PROJECT SHOWCASE
+
+> A small selection of projects that represent the way I build — **real workflows, backend logic, APIs, databases and product-focused interfaces.**
+
+<br/>
+
 <a href="https://github.com/wafikh-salman/ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wafikh-salman&repo=ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wafikh-salman&repo=ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896" width="410"/>
 </a>
 
 <a href="https://github.com/wafikh-salman/clouzie_ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=wafikh-salman&repo=clouzie_ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=wafikh-salman&repo=clouzie_ecommerce&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00c896&icon_color=00c896" width="410"/>
 </a>
 
 </div>
 
-### 🛒 E-Commerce Platform
-**[wafikh-salman/ecommerce](https://github.com/wafikh-salman/ecommerce)**
+---
 
-Django-based e-commerce project covering practical application workflows:
+## 🛒 E-Commerce Platform
+### A complete commerce workflow — not just a storefront.
 
-- 🔐 Authentication & authorization
-- 🛍️ Product & category management
-- 🛒 Cart & wishlist
-- 💳 Checkout & payment workflow
-- 📦 Order management
-- 🎟️ Coupons & offers
-- 💰 Wallet
-- 🧑‍💼 Admin management
+**[View Repository →](https://github.com/wafikh-salman/ecommerce)**
 
-**Stack:** Django • Python • PostgreSQL • JavaScript
+```text
+AUTH
+  ↓
+PRODUCTS → CART → CHECKOUT → PAYMENT
+  ↓                    ↓
+WISHLIST            ORDERS
+  ↓                    ↓
+OFFERS / COUPONS → WALLET
+                       ↓
+                 ADMIN MANAGEMENT
+```
 
-### 🤎 CLOUZIE E-Commerce
-**[wafikh-salman/clouzie_ecommerce](https://github.com/wafikh-salman/clouzie_ecommerce)**
+**Built around:**
 
-A premium-style e-commerce project focused on a polished storefront and application workflow.
+- 🔐 Authentication & user management
+- 🛍️ Product and category management
+- 🛒 Cart + wishlist workflows
+- 💳 Checkout and payment integration
+- 📦 Order lifecycle management
+- 🎟️ Coupons, offers and discounts
+- 💰 Wallet functionality
+- 🧑‍💼 Administrative management
 
-**Stack:** Django • Python • HTML • CSS • JavaScript
+<div align="center">
 
-### 🍰 BakeStory
-**[wafikh-salman/bakestory](https://github.com/wafikh-salman/bakestory)**
+`PYTHON` `DJANGO` `POSTGRESQL` `JAVASCRIPT` `REST`
 
-A product-focused web project built around a polished user experience.
-
-**Stack:** Web Technologies • UI Development
-
-### 🤖 AI Assignment Reminder
-**[wafikh-salman/ai-assignment-reminder](https://github.com/wafikh-salman/ai-assignment-reminder)**
-
-An AI-oriented project reflecting my growing interest in practical AI workflows and automation.
-
-**Stack:** Python • AI
+</div>
 
 ---
+
+## 🤎 CLOUZIE
+### Premium storefront experience × Django application
+
+**[View Repository →](https://github.com/wafikh-salman/clouzie_ecommerce)**
+
+```text
+        BRAND EXPERIENCE
+               │
+        ┌──────┴──────┐
+        ↓             ↓
+     EDITORIAL      NEW IN
+        │             │
+        └──────┬──────┘
+               ↓
+        PRODUCT EXPERIENCE
+               ↓
+        E-COMMERCE FLOW
+```
+
+**Built with a product-first mindset:**
+
+- ✦ Premium dark-brown visual direction
+- ✦ Editorial-style landing experience
+- ✦ Product discovery and storefront UI
+- ✦ Responsive, mobile-first approach
+- ✦ Django-powered application flow
+
+<div align="center">
+
+`DJANGO` `PYTHON` `JAVASCRIPT` `HTML` `CSS`
+
+</div>
+
+---
+
+## 🤖 AI Assignment Reminder
+### Exploring practical AI-powered automation
+
+**[View Repository →](https://github.com/wafikh-salman/ai-assignment-reminder)**
+
+A focused project from my transition into **AI engineering**, exploring how AI can be connected to useful application workflows rather than existing only as a chatbot.
+
+```text
+APPLICATION
+     ↓
+CONTEXT + USER INPUT
+     ↓
+      AI
+     ↓
+ACTION / REMINDER
+```
+
+<div align="center">
+
+`PYTHON` `AI` `AUTOMATION`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧩 WHAT THESE PROJECTS SHOW
+
+| Backend Engineering | Product Thinking | AI Exploration |
+|:---:|:---:|:---:|
+| Django • APIs • PostgreSQL | UX • Workflows • Responsive UI | AI • Automation • Intelligent Apps |
+
+<br/>
+
+**3 projects. 3 different directions. One goal → build things that actually work.**
+
+</div>
 
 # 📊 GitHub Statistics
 
